@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\secondproject\\ado.nettask\\ado.nettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|solutionrelative:ado.nettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\secondproject\\ado.nettask\\ado.nettask\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|solutionrelative:ado.nettask\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\secondproject\\ado.nettask\\ado.nettask\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|solutionrelative:ado.nettask\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\secondproject\\ado.nettask\\ado.nettask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4AD26C-E99C-4A48-AE91-F61DBAC00160}|ADO.NETTask\\ADO.NETTask.csproj|solutionrelative:ado.nettask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "ADO.NETTask\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Services\\StudentService.cs",
+              "RelativeToolTip": "ADO.NETTask\\Services\\StudentService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:46:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ADO.NETTask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Models\\Student.cs",
+              "RelativeToolTip": "ADO.NETTask\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:45:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sql.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Data\\Sql.cs",
+              "RelativeDocumentMoniker": "ADO.NETTask\\Data\\Sql.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Data\\Sql.cs",
+              "RelativeToolTip": "ADO.NETTask\\Data\\Sql.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:45:27.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Program.cs",
+              "RelativeDocumentMoniker": "ADO.NETTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\ADO.NETTask\\ADO.NETTask\\Program.cs*",
+              "RelativeToolTip": "ADO.NETTask\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:33:17.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
